@@ -1,0 +1,126 @@
+/*2019|Nicholas Villiers|U3161734*/  
+
+
+body {
+
+  /*background-color			:white;*/
+  background-color			:black;
+  width						:90%;
+  align-content				:center;
+  margin-left				:5%;
+  margin-right				:5%;
+  /*border					:10px;*/
+  border-radius				:20px;
+}
+h1 {
+  color						:#FFFFFF;
+  text-align				:center;
+  font-size					:5vw;
+  background-color			:55ACEE;
+  /*background-image		:url("images/norfolk-island-27.jpg");*/
+  font-weight				:bold;
+}
+head{
+	background-color		:powderblue;
+	/*background-image		:url("images/norfolk-island-27.jpg");*/
+}
+h2 {
+	font-size				:3vw;
+	text-align				:center;
+}
+h3 {
+	font-size				:2vw;
+	text-align				:center;
+}
+p {
+  color						:#000000;
+  text-align				:center;
+  width						:90%;
+  max-width					:90%;
+  margin-left				:5%;
+  margin-right				:5%;
+  display					:inline-block;
+  content-align				:center;
+  /*float						:left;*/
+}
+img {
+  border					:1px solid black;
+  border-radius				:20px;
+  /*padding					:5px;*/
+  width						:90%;
+  max-width					:90%;
+  margin-left				:5%;
+  margin-right				:5%:
+  image-align				:center;
+  align-content				:center;
+  /*display					:inline-block;*/
+  /*float						:right;*/
+}
+nav {
+	text-align				:center;
+	border					:1px solid black;
+	/*border-top			:1px solid black;*/
+	/*border-bottom			:1px solid black;*/
+	background				:none;
+	background-image		:url("images/norfolk-island-27.jpg");
+	border-radius			:20px;
+	/*height					:15vh;*/
+}
+footer{
+	opacity					:0.9;
+	color					:#CCD6DD;
+}
+a {
+	display					:inline-block;
+	border-left				:9px solid FFFFFF;
+	border-right			:9px solid FFFFFF;
+	border-top				:9px solid FFFFFF;
+	border-bottom			:9px solid FFFFFF;
+	margin-bottom			:1%;
+	margin-left				:0px;
+	margin-right			:0px;
+	border-radius			:20px;
+	width					:24%;
+	background-color		:black;
+	font-size				:2.5vw;
+	text-decoration			:none;
+	color					:white;
+}
+a:hover{
+	background-color		:white;
+	color					:black;
+}
+div{
+	padding-top				:1vw;
+	padding-left			:1vw;
+	padding-right			:1vw;
+	border					:1px solid black;
+	/*background-color		:AliceBlue;*/
+	background-color		:#CCD6DD;
+	align-content			:center;
+	border-radius			:20px;	
+}
+
+div.info{
+	display					:inline-block;
+	width					:88vw;
+	maxwidth				:88vw;
+}
+a.w3{
+	background-color		:transparent;
+	border					:none;					
+}
+hr{
+	color					:#CCD6DD;
+}
+article{
+	width					:70%;
+	display					:block;
+}
+aside{
+	width					:30%;
+	display					:block;
+}
+
+
+
